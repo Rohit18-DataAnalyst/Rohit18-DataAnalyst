@@ -13,7 +13,7 @@
 - GitHub (Version Control, Project Tracking)  
 
 ### 📂 Projects & Progress
-- 📊 Day 1: Excel Basics → [Day1-Learning Repo]([link_to_your_repo](https://github.com/Rohit18-DataAnalyst/day-1-excel-practice)  
+- 📊 Day 1: Excel Basics → [Day1-Excel Basics Practice](https://github.com/Rohit18-DataAnalyst/day-1-excel-practice)  
 
 ### 📫 Connect with Me
 - LinkedIn: [Your LinkedIn Profile Link]  
