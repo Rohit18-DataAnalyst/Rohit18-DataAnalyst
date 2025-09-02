@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohit Sharma  
 
-<!--
-**Rohit18-DataAnalyst/Rohit18-DataAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Data Analyst | Excel | SQL | Python | Power BI | Japanese Learner (JLPT N5)**  
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- Data Analytics (Excel, SQL, Python, Power BI, GitHub)  
+- Japanese Language (JLPT N5 basics)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills in Progress
+- Excel (Formulas, Data Cleaning, Visualization)  
+- SQL (Queries, Joins, Aggregations)  
+- Python (Pandas, NumPy, Data Visualization)  
+- GitHub (Version Control, Project Tracking)  
+
+### 📂 Projects & Progress
+- 📊 Day 1: Excel Basics → [Day1-Learning Repo](link_to_your_repo)  
+
+### 📫 Connect with Me
+- LinkedIn: [Your LinkedIn Profile Link]  
+- GitHub: [Rohit18-DataAnalyst](https://github.com/Rohit18-DataAnalyst)
