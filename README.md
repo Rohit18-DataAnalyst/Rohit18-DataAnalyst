@@ -14,7 +14,8 @@
 
 ### 📂 Projects & Progress
 - 📊 Day 1: Excel Basics → [Day1-Excel Basics Practice](https://github.com/Rohit18-DataAnalyst/day-1-excel-practice)  
-
+- 📊 Day 2: Excel Basics → [Day2-Excel Basics Practice](https://github.com/Rohit18-DataAnalyst/Day2-Learning)
+  
 ### 📫 Connect with Me
 - LinkedIn: [Rohit Sharma](https://www.linkedin.com/in/rohit18-dataanalyst)
 - GitHub: [Rohit18-DataAnalyst](https://github.com/Rohit18-DataAnalyst)
