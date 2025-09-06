@@ -18,6 +18,8 @@
 - [Day 2 – Excel Sorting, Filtering & Charts](https://github.com/Rohit18-DataAnalyst/Day2-Learning)  
 - [Day 3 – Excel Basic Formulas](https://github.com/Rohit18-DataAnalyst/Day3-Excel-Formulas)
 - [Day 4 – Text Functions & Data Cleaning](https://github.com/Rohit18-DataAnalyst/Excel-Day4-TextFunctions)
+- [Excel – Day 5 Data Cleaning](https://github.com/Rohit18-DataAnalyst/Excel-Day5-DataCleaning)
+
 
   
 ### 📫 Connect with Me
