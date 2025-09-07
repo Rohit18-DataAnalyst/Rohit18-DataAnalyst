@@ -19,7 +19,7 @@
 - [Day 3 – Excel Basic Formulas](https://github.com/Rohit18-DataAnalyst/Day3-Excel-Formulas)
 - [Day 4 – Text Functions & Data Cleaning](https://github.com/Rohit18-DataAnalyst/Excel-Day4-TextFunctions)
 - [Day 5 - Data Cleaning](https://github.com/Rohit18-DataAnalyst/Excel-Day5-DataCleaning)
-- [Day 6 - Logical Functions](https://github.com/YourUsername/Excel-Day6-LogicalFunctions)
+- [Day 6 - Logical Functions](https://github.com/Rohit18-DataAnalyst/Excel-Day6-LogicalFunctions)
 
 
 
